@@ -57,7 +57,7 @@ function swapPhoto() {
   $('#photo, .location, .description, .date').fadeOut(510);
   setTimeout(() => {
     $('#photo').attr('src', imgInfo.imgPath)
-    $('.location').text(`Location: ${imgInfo.imgLocation}`)
+    $('.location').text(`Name: ${imgInfo.imgLocation}`)
     $('.description').text(`Description: ${imgInfo.description}`)
     $('.date').text(`Date: ${imgInfo.date}`)
     $('#photo, .location, .description, .date').fadeIn(500);

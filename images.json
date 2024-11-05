@@ -1,82 +1,64 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "imgPath": "img/Washington.jpg",
+            "imgLocation": "George Washington",
+            "description": "In 2062, Washington's prototype was built with titanium and carbon composites to honor the ideals of independence. He is programmed with an unwavering sense of justice and wears a digital tricorne hat.",
+            "date": "07/14/2062"
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "imgPath": "img/Lincoln.jpg",
+            "imgLocation": "Abraham Lincoln",
+            "description": "Lincoln's android, completed in 2071, has advanced empathy algorithms and a unique 'Truth Circuit' that mimics his reputation for honesty. His towering frame is fitted with a voice synthesizer that replicates his famous speeches.",
+            "date": "10/22/2071"
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "imgPath": "img/F-Roosevelt.jpg",
+            "imgLocation": "Franklin Roosevelt",
+            "description": "Created in 2075, FDR's android was designed to promote resilience. Equipped with a holographic wheelchair and a 'Hope Engine' processor, he inspires resilience in times of crisis.",
+            "date": "05/08/2075"
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "imgPath": "img/Grant.jpg",
+            "imgLocation": "Ulysses S Grant",
+            "description": "Constructed in 2083, Grant's robot includes a 'Command Interface' for military strategy simulations. He is designed to motivate unity and peace and can recite Civil War history with perfect accuracy.",
+            "date": "02/16/2083"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "imgPath": "img/Hoover.jpg",
+            "imgLocation": "Herbert Hoover",
+            "description": "Built in 2068, Hoover’s model was initially for resource management. His 'Efficiency Module' enables him to analyze economic data instantly, while his holographic display projects future financial trends.",
+            "date": "11/03/2068"
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
+            "imgPath": "img/Jefferson.jpg",
+            "imgLocation": "Thomas Jefferson",
+            "description": "In 2079, Jefferson's android was designed to showcase knowledge of governance and philosophy. Programmed with over 10,000 historical texts, he can debate policy and draft virtual 'Declarations.'",
+            "date": "09/17/2079"
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
+            "imgPath": "img/Madison.jpg",
+            "imgLocation": "James Madison",
+            "description": "Madison’s robot, completed in 2085, is equipped with a 'Constitutional Processor,' allowing him to advise on legal matters. Known as the 'Guardian of Rights,' he advocates civil liberties.",
+            "date": "06/11/2085"
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
+            "imgPath": "img/T-Roosevelt.jpg",
+            "imgLocation": "Theodore Roosevelt",
+            "description": "Created in 2088, T. Roosevelt’s android has an 'Explorer Module' for environmental stewardship. Able to climb rough terrain, he inspires adventure and conservation with historical knowledge of U.S. parks.",
+            "date": "04/21/2088"
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
+            "imgPath": "img/Taft.jpg",
+            "imgLocation": "William Howard Taft",
+            "description": "Taft’s model, completed in 2072, focuses on judicial insight. His 'Legal Equity Chip' allows him to offer fair judgment in simulated court cases, ensuring balanced and just outcomes.",
+            "date": "12/05/2072"
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
-        },
-        {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
-        },
-        {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
-        },
-        {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
+            "imgPath": "img/Adams.jpg",
+            "imgLocation": "John Adams",
+            "description": "Built in 2065, Adams’s robot was created to promote diplomacy and political theory. Programmed to engage in debates, his 'Diplomat Module' is designed to bridge divides.",
+            "date": "08/29/2065"
         }
     ]
 }
